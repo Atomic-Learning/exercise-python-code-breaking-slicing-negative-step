@@ -11,7 +11,7 @@
     ],
     "duration": 5,
     "prerequisites": [
-        "python-strings-slicing"
+        "python-slicing"
     ],
     "related": [
         "sample-solution-python-code-breaking-slicing-negative-step"
